@@ -22,7 +22,7 @@
             },
             "require": {
                 "guzzlehttp/guzzle": "^6.0 || ^7.0",
-                "php": ">=7.1"
+                "php": "^7.4.0"
             },
             "require-dev": {
                 "phpunit/phpunit": "^9.3"
@@ -328,7 +328,7 @@
                 "ext-curl": "*",
                 "ext-mbstring": "*",
                 "ext-simplexml": "*",
-                "php": ">=7.1"
+                "php": "^7.4.0"
             },
             "require-dev": {
                 "composer/composer": "^1.10.0",
@@ -4277,7 +4277,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1",
+                "php": "^7.4.0",
                 "php-http/message-factory": "^1.0",
                 "psr/http-factory": "^1.0",
                 "psr/http-message": "^1.0"
@@ -6680,7 +6680,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": "^7.4.0"
             },
             "type": "library",
             "extra": {
@@ -7387,7 +7387,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": "^7.4.0"
             },
             "suggest": {
                 "ext-ctype": "For best performance"
@@ -7466,7 +7466,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": "^7.4.0"
             },
             "suggest": {
                 "ext-iconv": "For best performance"
@@ -7546,7 +7546,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": "^7.4.0"
             },
             "suggest": {
                 "ext-intl": "For best performance"
@@ -7627,7 +7627,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1",
+                "php": "^7.4.0",
                 "symfony/polyfill-intl-normalizer": "^1.10",
                 "symfony/polyfill-php72": "^1.10"
             },
@@ -7714,7 +7714,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": "^7.4.0"
             },
             "suggest": {
                 "ext-intl": "For best performance"
@@ -7798,7 +7798,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": "^7.4.0"
             },
             "suggest": {
                 "ext-mbstring": "For best performance"
@@ -7878,7 +7878,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": "^7.4.0"
             },
             "type": "metapackage",
             "extra": {
@@ -7946,7 +7946,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": "^7.4.0"
             },
             "type": "library",
             "extra": {
@@ -8022,7 +8022,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": "^7.4.0"
             },
             "type": "library",
             "extra": {
@@ -8101,7 +8101,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": "^7.4.0"
             },
             "type": "library",
             "extra": {
@@ -8184,7 +8184,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": "^7.4.0"
             },
             "type": "library",
             "extra": {
@@ -8325,7 +8325,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1",
+                "php": "^7.4.0",
                 "psr/http-message": "^1.0",
                 "symfony/http-foundation": "^4.4 || ^5.0"
             },
